@@ -57,7 +57,7 @@ Machine learning algorithms have proven to be very useful in pattern recognition
 • In our model we have used JetPack version 4.6 which is the latest production release and supports all Jetson modules.
 ## Jetson Nano 2gb
 
-![Jetson Nano](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Jetson Nano](https://github.com/PujaKamble/helmet_detection/blob/main/jetson_nano.jpg)
 
 
 ## Proposed System
