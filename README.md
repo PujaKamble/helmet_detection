@@ -185,7 +185,7 @@ source '0' for webcam
 
 https://user-images.githubusercontent.com/98114997/151503628-6760c6d4-f2e2-494b-8e6b-28d040037785.mp4
 
-o
+
 
 ## Advantages
 
